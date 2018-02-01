@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:bluematter",
+  "rarity" : "Rare",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "bluematter.png",
+  "description" : "A pleasant calm fills your mind.",
+  "shortdescription" : "Blue Matter",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:bindingcore",
+  "rarity" : "Legendary",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "bindingcore.png",
+  "description" : "This matrix binds matter together.",
+  "shortdescription" : "Binding Core",
+  "itemTags" : [ "reagent" ]
+}

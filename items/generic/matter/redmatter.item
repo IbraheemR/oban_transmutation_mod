@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:redmatter",
+  "rarity" : "Rare",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "redmatter.png",
+  "description" : "It's intense red hue fills you with anger.",
+  "shortdescription" : "Red Matter",
+  "itemTags" : [ "reagent" ]
+}

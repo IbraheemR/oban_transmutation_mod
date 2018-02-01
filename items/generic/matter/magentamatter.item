@@ -1,0 +1,10 @@
+{
+    "itemName" : "otm:magentamatter",
+    "rarity" : "Rare",
+    "price" : 1,
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "magentamatter.png",
+    "description" : "Pink. Huh.",
+    "shortdescription" : "Mauvite",
+    "itemTags" : [ "reagent" ]
+  }

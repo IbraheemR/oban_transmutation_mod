@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:rightmirror",
+  "rarity" : "Uncommon",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "rightmirror.png",
+  "description" : "This mirror shifts the signature of matter to the right.",
+  "shortdescription" : "Right Parity Mirror",
+  "itemTags" : [ "reagent" ]
+}

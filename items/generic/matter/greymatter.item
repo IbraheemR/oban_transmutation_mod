@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:greymatter",
+  "rarity" : "Common",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "greymatter.png",
+  "description" : "A homogenous blob of goop.",
+  "shortdescription" : "Grey Matter",
+  "itemTags" : [ "reagent" ]
+}

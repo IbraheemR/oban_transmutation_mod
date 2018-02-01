@@ -1,0 +1,10 @@
+{
+    "itemName" : "otm:yellowmatter",
+    "rarity" : "Rare",
+    "price" : 1,
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "yellowmatter.png",
+    "description" : "You feel a wamth apon you.",
+    "shortdescription" : "Ambex",
+    "itemTags" : [ "reagent" ]
+  }

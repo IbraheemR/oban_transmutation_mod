@@ -1,0 +1,10 @@
+{
+  "author" : "OBAN",
+  "description" : "Based on the Equivalent Exchange/Project-E mod for minecraft",
+  "friendlyName" : "OBAN's Transmuation Mod",
+  "link" : "http://www.ibraheemrodrigues.com",
+  "name" : "OTM",
+  "requires" : [],
+  "steamContentId" : "",
+  "version" : "2.0.1"
+}

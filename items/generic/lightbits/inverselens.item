@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:inverselens",
+  "rarity" : "Uncommon",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "inverselens.png",
+  "description" : "This lens inverts the signature of matter.",
+  "shortdescription" : "Inversion Lens",
+  "itemTags" : [ "reagent" ]
+}

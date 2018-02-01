@@ -1,0 +1,10 @@
+{
+    "itemName" : "otm:shinymatter",
+    "rarity" : "Uncommon",
+    "price" : 1,
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "shinymatter.png",
+    "description" : "SHINYYYYYYY!",
+    "shortdescription" : "Shiny Matter",
+    "itemTags" : [ "reagent" ]
+  }

@@ -1,0 +1,10 @@
+{
+    "itemName" : "otm:greenmatter",
+    "rarity" : "Rare",
+    "price" : 1,
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "greenmatter.png",
+    "description" : "It's green-ness satisfies you",
+    "shortdescription" : "Green Matter",
+    "itemTags" : [ "reagent" ]
+  }

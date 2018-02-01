@@ -1,0 +1,10 @@
+{
+  "itemName" : "otm:darkmatter",
+  "rarity" : "Uncommon",
+  "price" : 1,
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "darkmatter.png",
+  "description" : "Matte and firm, you find yourself consumed by it's blackness.",
+  "shortdescription" : "Dark Matter",
+  "itemTags" : [ "reagent" ]
+}

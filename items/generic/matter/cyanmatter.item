@@ -1,0 +1,10 @@
+{
+    "itemName" : "otm:cyanmatter",
+    "rarity" : "Rare",
+    "price" : 1,
+    "category" : "craftingMaterial",
+    "inventoryIcon" : "cyanmatter.png",
+    "description" : "Celery?",
+    "shortdescription" : "Ceruletine",
+    "itemTags" : [ "reagent" ]
+  }
