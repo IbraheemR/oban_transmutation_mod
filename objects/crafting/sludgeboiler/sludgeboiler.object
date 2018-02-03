@@ -1,0 +1,52 @@
+{
+    "objectName" : "otmsludgeboiler",
+    "colonyTags" : [],
+    "category" : "crafting",
+    "rarity" : "Uncommon",
+    "objectType" : "container",
+    "description" : "Boils pretty much anything into a thick sludge.",
+    "shortdescription" : "^orange;Sludge Boiler^white;",
+    "race" : "generic",
+    "price" : 400,
+    "printable" : false,
+
+    "apexDescription" : "",
+    "avianDescription" : "",
+    "floranDescription" : "",
+    "glitchDescription" : "",
+    "humanDescription" : "",
+    "hylotlDescription" : "",
+    "novakidDescription" : "",
+  
+    "inventoryIcon" : "sludgeboilericon.png",
+    "orientations" : [
+        {
+            "image" : "sludgeboiler.png:<color>.<frame>",
+            "direction" : "left",
+            "flipImages" : true,
+      
+            "imagePosition" : [0, 0],
+            "frames" : 4,
+            "animationCycle" : 1,
+      
+            "anchors" : [ "bottom" ]
+          },
+          {
+            "image" : "sludgeboiler.png:<color>.<frame>",
+            "direction" : "right",
+      
+            "imagePosition" : [0, 0],
+            "frames" : 4,
+            "animationCycle" : 1,
+      
+            "anchors" : [ "bottom" ]
+          }
+    ],
+  
+    "slotCount" : 16,
+    "uiConfig" : "/interface/chests/chest<slots>.config",
+    "frameCooldown" : 5,
+    "autoCloseCooldown" : 3600,
+
+    "scripts" : [ "sludgeboiler.lua" ]
+  }
