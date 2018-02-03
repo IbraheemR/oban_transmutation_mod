@@ -9,14 +9,6 @@
     "race" : "generic",
     "price" : 400,
     "printable" : false,
-
-    "apexDescription" : "",
-    "avianDescription" : "",
-    "floranDescription" : "",
-    "glitchDescription" : "",
-    "humanDescription" : "",
-    "hylotlDescription" : "",
-    "novakidDescription" : "",
   
     "inventoryIcon" : "sludgeboilericon.png",
     "orientations" : [
@@ -29,6 +21,7 @@
             "frames" : 4,
             "animationCycle" : 1,
       
+            "spaceScan" : 0.1,
             "anchors" : [ "bottom" ]
           },
           {
@@ -39,6 +32,7 @@
             "frames" : 4,
             "animationCycle" : 1,
       
+            "spaceScan" : 0.1,
             "anchors" : [ "bottom" ]
           }
     ],
