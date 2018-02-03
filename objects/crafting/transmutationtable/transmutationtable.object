@@ -1,5 +1,5 @@
 {
-  "objectName" : "OTM:transmutationtable",
+  "objectName" : "otmtransmutationtable",
   "colonyTags" : ["crafting"],
   "category" : "crafting",
   "rarity" : "Uncommon",
