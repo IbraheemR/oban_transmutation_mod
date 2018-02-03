@@ -1,0 +1,12 @@
+{
+  "itemName" : "OT_greymatter",
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "OT_greymatter.png",
+  "description" : "A weird type of matter.",
+  "shortdescription" : "Grey Matter",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "OT_darkmatter"
+  ]
+}

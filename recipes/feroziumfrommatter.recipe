@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "OT_redmatter", "count" : 2 }
+  ],
+  "output" : { "item" : "refinedferozium", "count" : 1 },
+  "groups" : [ "OT_altar", "consumables", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "cobblestonebrick", "count" : 20 },
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "campfire", "count" : 1 }
+  ],
+  "output" : { "item" : "OT_sludger", "count" : 1 },
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}

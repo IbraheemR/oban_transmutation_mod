@@ -1,0 +1,55 @@
+{
+  "objectName" : "OT_altar",
+  "printable" : false,
+  "price" : 30,
+  "rarity" : "Uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/OT_altar.config",
+    "filter" : [ "OT_altar" ]
+  },
+  "description" : "Energies dance away from the Matter Transmuter, warming the ether.",
+  "shortdescription" : "^orange;Matter Transmuter^white;",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "lightColor" : [0, 255, 255],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "OT_altaricon.png",
+  "orientations" : [
+    {
+      "dualImage" : "OT_altar.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "frames" : 13,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "statusEffects" : [ ],
+
+  "scripts" : [ "/scripts/npcToyObject.lua"],
+  "npcToy" : {
+    "influence" : [
+      "campfire"
+    ],
+    "defaultReactions" : {
+      "campfire" : [
+        [1.0, "warmhands"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-2.5, 0.0],
+    "preciseStandPositionRight" : [2.5, 0.0],
+    "maxNpcs" : 1
+  }
+}

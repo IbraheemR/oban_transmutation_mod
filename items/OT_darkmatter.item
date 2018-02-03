@@ -1,0 +1,13 @@
+{
+  "itemName" : "OT_darkmatter",
+  "price" : 50,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "OT_darkmatter.png",
+  "description" : "A very weird type of matter.",
+  "shortdescription" : "Dark Matter",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+    "OT_redmatter"
+  ]
+}

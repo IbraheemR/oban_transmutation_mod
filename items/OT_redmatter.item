@@ -1,0 +1,13 @@
+{
+  "itemName" : "OT_redmatter",
+  "price" : 500,
+  "rarity" : "Rare",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "OT_redmatter.png",
+  "description" : "An extreemly weird type of matter.",
+  "shortdescription" : "Red Matter",
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [
+  
+  ]
+}

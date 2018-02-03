@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "OT_redmatter", "count" : 5 }
+  ],
+  "output" : { "item" : "solariumstar", "count" : 1 },
+  "groups" : [ "OT_altar", "consumables", "all" ]
+}

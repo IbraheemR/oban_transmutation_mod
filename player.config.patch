@@ -1,0 +1,6 @@
+[ 
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"OT_sludger"} },
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"diamond"} },
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"coalore"} },
+{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"OT_altar"} } 
+]
