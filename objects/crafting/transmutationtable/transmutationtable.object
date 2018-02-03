@@ -1,0 +1,52 @@
+{
+  "objectName" : "OTM:transmutationtable",
+  "colonyTags" : ["crafting"],
+  "category" : "crafting",
+  "rarity" : "Uncommon",
+  "description" : "Can be used to produce matter and other things.",
+  "shortdescription" : "^orange;Transmutation Table^white;",
+  "race" : "generic",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/transmutationtable.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Transmutation Table",
+        "subtitle" : " ^#b9b5b2;Matter & Mystery",
+        "icon" : {
+          "file" : "transmutationtableicon.png"
+        }
+      }
+    },
+    "filter" : [ "craftingtransmutation" ]
+  },
+  "printable" : false,
+  "price" : 1,
+
+  "inventoryIcon" : "transmutationtableicon.png",
+  "orientations" : [
+    {
+        "image" : "transmutationtable.png:<color>.<frame>",
+        "direction" : "left",
+        "flipImages" : true,
+  
+        "imagePosition" : [0, 0],
+        "frames" : 4,
+        "animationCycle" : 0.5,
+  
+        "spaces" : [ [0, 0], [1, 0], [2, 0], [3, 0] ],
+        "anchors" : [ "bottom" ]
+      },
+      {
+        "image" : "transmutationtable.png:<color>.<frame>",
+        "direction" : "right",
+  
+        "imagePosition" : [0, 0],
+        "frames" : 4,
+        "animationCycle" : 0.5,
+  
+        "spaces" : [ [0, 0], [1, 0], [2, 0], [3, 0] ],
+        "anchors" : [ "bottom" ]
+      }
+  ]
+}
