@@ -1,0 +1,13 @@
+{
+    "input" : [
+      { "item" : "cobblestonebrick", "count" : 20 },
+      { "item" : "otmgreymatter", "count" : 2000 }
+    ],
+    "output" : {
+      "item" : "otmtransfusiontable",
+      "count" : 1
+    },
+    "duration" : 5,
+    "groups" : [ "inventorstable", "craftingstations", "all" ]
+  }
+  
