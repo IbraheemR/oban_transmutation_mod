@@ -1,7 +1,7 @@
 {
     "itemName" : "otmrainbowmatter",
     "rarity" : "Legendary",
-    "price" : 1,
+    "price" : 200000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "rainbowmatter.png",
     "description" : "You feel as if you could reach into it and touch the very edges of the universe",

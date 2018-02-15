@@ -1,23 +1,23 @@
 {
-  "objectName" : "otmtransfusiontable",
+  "objectName" : "otmtransmutationtable",
   "colonyTags" : ["crafting"],
   "category" : "crafting",
   "rarity" : "Uncommon",
   "description" : "Can be used to produce matter and other things.",
-  "shortdescription" : "^orange;Transfusion Table^white;",
+  "shortdescription" : "^orange;Transmutation Table^white;",
   "race" : "generic",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/transfusiontable.config",
-    "filter" : [ "craftingtransfusion" ]
+    "config" : "/interface/windowconfig/transmutationtable.config",
+    "filter" : [ "craftingmutation" ]
   },
   "printable" : false,
   "price" : 1,
 
-  "inventoryIcon" : "transfusiontableicon.png",
+  "inventoryIcon" : "transmutationtableicon.png",
   "orientations" : [
     {
-        "image" : "transfusiontable.png:<color>.<frame>",
+        "image" : "transmutationtable.png:<color>.<frame>",
         "direction" : "left",
         "flipImages" : true,
   
@@ -29,7 +29,7 @@
         "anchors" : [ "bottom" ]
       },
       {
-        "image" : "transfusiontable.png:<color>.<frame>",
+        "image" : "transmutationtable.png:<color>.<frame>",
         "direction" : "right",
   
         "imagePosition" : [0, 0],

@@ -1,7 +1,7 @@
 {
     "itemName" : "otmmagentamatter",
     "rarity" : "Rare",
-    "price" : 1,
+    "price" : 10000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "magentamatter.png",
     "description" : "Pink. Huh.",

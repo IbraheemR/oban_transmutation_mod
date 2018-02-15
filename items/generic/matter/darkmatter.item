@@ -1,7 +1,7 @@
 {
   "itemName" : "otmdarkmatter",
   "rarity" : "Uncommon",
-  "price" : 1,
+  "price" : 100,
   "category" : "craftingMaterial",
   "inventoryIcon" : "darkmatter.png",
   "description" : "Matte and firm, you find yourself consumed by it's blackness.",

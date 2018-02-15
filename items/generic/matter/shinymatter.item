@@ -1,7 +1,7 @@
 {
     "itemName" : "otmshinymatter",
     "rarity" : "Uncommon",
-    "price" : 1,
+    "price" : 10000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "shinymatter.png",
     "description" : "SHINYYYYYYY!",

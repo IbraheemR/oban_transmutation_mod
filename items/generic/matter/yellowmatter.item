@@ -1,7 +1,7 @@
 {
     "itemName" : "otmyellowmatter",
     "rarity" : "Rare",
-    "price" : 1,
+    "price" : 10000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "yellowmatter.png",
     "description" : "You feel a wamth apon you.",

@@ -1,7 +1,7 @@
 {
     "itemName" : "otmcyanmatter",
     "rarity" : "Rare",
-    "price" : 1,
+    "price" : 10000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "cyanmatter.png",
     "description" : "Celery?",

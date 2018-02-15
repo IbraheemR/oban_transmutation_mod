@@ -1,7 +1,7 @@
 {
   "itemName" : "otmredmatter",
   "rarity" : "Rare",
-  "price" : 1,
+  "price" : 1000,
   "category" : "craftingMaterial",
   "inventoryIcon" : "redmatter.png",
   "description" : "It's intense red hue fills you with anger.",

@@ -1,7 +1,7 @@
 {
   "itemName" : "otmwhitematter",
   "rarity" : "Uncommon",
-  "price" : 1,
+  "price" : 1000,
   "category" : "craftingMaterial",
   "inventoryIcon" : "whitematter.png",
   "description" : "Pearlescent and silky, this orb fills you with a strange energy.",

@@ -1,7 +1,7 @@
 {
   "itemName" : "otmgreymatter",
   "rarity" : "Common",
-  "price" : 1,
+  "price" : 0,
   "category" : "craftingMaterial",
   "inventoryIcon" : "greymatter.png",
   "description" : "A homogenous blob of goop.",

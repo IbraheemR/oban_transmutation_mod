@@ -1,7 +1,7 @@
 {
   "itemName" : "otmbluematter",
   "rarity" : "Rare",
-  "price" : 1,
+  "price" : 4000,
   "category" : "craftingMaterial",
   "inventoryIcon" : "bluematter.png",
   "description" : "A pleasant calm fills your mind.",

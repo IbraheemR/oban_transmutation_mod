@@ -5,6 +5,6 @@
     "category" : "craftingMaterial",
     "inventoryIcon" : "leftmirror.png",
     "description" : "This mirror shifts the signature of matter to the left.",
-    "shortdescription" : "Left Parity Mirror",
+    "shortdescription" : "UNUSED Left Parity Mirror",
     "itemTags" : [ "reagent" ]
   }

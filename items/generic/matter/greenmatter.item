@@ -1,7 +1,7 @@
 {
     "itemName" : "otmgreenmatter",
     "rarity" : "Rare",
-    "price" : 1,
+    "price" : 4000,
     "category" : "craftingMaterial",
     "inventoryIcon" : "greenmatter.png",
     "description" : "It's green-ness satisfies you",
