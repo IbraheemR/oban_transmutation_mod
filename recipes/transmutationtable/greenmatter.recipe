@@ -1,0 +1,14 @@
+{
+    "input" : [
+      { "item" : "otmredmatter", "count" : 2 },
+      { "item" : "otmshinymatter", "count" : 1 }
+    ],
+    "output" : {
+      "item" : "otmgreenmatter",
+      "count" : 1
+    },
+    "groups" : [ "craftingtransmutation", "matter", "all" ]
+}
+  
+
+    

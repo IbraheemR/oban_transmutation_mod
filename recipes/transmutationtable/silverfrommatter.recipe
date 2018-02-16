@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmdarkmatter", "count" : 1 }
+    ],
+    "output" : {
+      "item" : "silverbar",
+      "count" : 4
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

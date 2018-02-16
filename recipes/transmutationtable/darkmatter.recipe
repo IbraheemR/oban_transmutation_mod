@@ -1,0 +1,13 @@
+{
+    "input" : [
+      { "item" : "otmgreymatter", "count" : 1000 }
+    ],
+    "output" : {
+      "item" : "otmdarkmatter",
+      "count" : 1
+    },
+    "groups" : [ "craftingtransmutation", "matter", "all" ]
+}
+  
+
+    

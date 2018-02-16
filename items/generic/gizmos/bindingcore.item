@@ -4,7 +4,7 @@
   "price" : 1,
   "category" : "craftingMaterial",
   "inventoryIcon" : "bindingcore.png",
-  "description" : "This matrix binds matter together.",
+  "description" : "This matrix allows for the fusion of matter.",
   "shortdescription" : "Binding Core",
   "itemTags" : [ "reagent" ]
 }

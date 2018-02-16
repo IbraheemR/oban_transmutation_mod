@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmredmatter", "count" : 1 }
+    ],
+    "output" : {
+      "item" : "corefragmentore",
+      "count" : 40
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

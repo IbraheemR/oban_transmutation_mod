@@ -1,0 +1,15 @@
+{
+    "input" : [
+      { "item" : "otmshinymatter", "count" : 1 },
+      { "item" : "titaniumbar", "count" : 5 },
+      { "item" : "prosoliteore", "count" : 10 },
+    ],
+    "output" : {
+      "item" : "otmbindingcore",
+      "count" : 1
+    },
+    "groups" : [ "craftingtransmutation", "matter", "all" ]
+}
+  
+
+    

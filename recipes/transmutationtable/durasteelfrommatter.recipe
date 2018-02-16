@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmredmatter", "count" : 1 }
+    ],
+    "output" : {
+      "item" : "durasteelbar",
+      "count" : 6
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

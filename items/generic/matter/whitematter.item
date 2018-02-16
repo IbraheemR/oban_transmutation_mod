@@ -6,5 +6,6 @@
   "inventoryIcon" : "whitematter.png",
   "description" : "Pearlescent and silky, this orb fills you with a strange energy.",
   "shortdescription" : "White Matter",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "otmshinymatter" ]
 }

@@ -1,12 +1,12 @@
 {
   "input" : [
     { "item" : "cobblestonebrick", "count" : 20 },
-    { "item" : "otmdarkmatter", "count" : 10 }
+    { "item" : "otmdarkmatter", "count" : 5 }
   ],
   "output" : {
     "item" : "otmtransmutationtable",
     "count" : 1
   },
   "duration" : 5,
-  "groups" : [ "inventorstable", "craftingstations", "all" ]
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
 }

@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmredmatter", "count" : 1 }
+    ],
+    "output" : {
+      "item" : "diamond",
+      "count" : 8
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

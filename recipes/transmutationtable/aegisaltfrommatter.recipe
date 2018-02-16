@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmgreenmatter", "count" : 2 }
+    ],
+    "output" : {
+      "item" : "refinedaegisalt",
+      "count" : 10
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

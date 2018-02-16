@@ -9,6 +9,8 @@
     "race" : "generic",
     "price" : 400,
     "printable" : false,
+
+    //"learnBlueprintsOnPickup" : [ "otmsludgeboileraddon" ],
   
     "inventoryIcon" : "sludgeboilericon.png",
     "orientations" : [

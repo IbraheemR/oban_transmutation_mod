@@ -6,5 +6,6 @@
   "inventoryIcon" : "greymatter.png",
   "description" : "A homogenous blob of goop.",
   "shortdescription" : "Grey Matter",
-  "itemTags" : [ "reagent" ]
+  "itemTags" : [ "reagent" ],
+  "learnBlueprintsOnPickup" : [ "otmdarkmatter" ]
 }

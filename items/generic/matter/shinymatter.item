@@ -6,5 +6,6 @@
     "inventoryIcon" : "shinymatter.png",
     "description" : "SHINYYYYYYY!",
     "shortdescription" : "Shiny Matter",
-    "itemTags" : [ "reagent" ]
+    "itemTags" : [ "reagent" ],
+    "learnBlueprintsOnPickup" : [ "otmbindingcore" ]
   }

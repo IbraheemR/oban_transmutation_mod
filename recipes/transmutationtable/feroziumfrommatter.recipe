@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "otmbluematter", "count" : 2 }
+    ],
+    "output" : {
+      "item" : "refinedferozium",
+      "count" : 10
+    },
+    "groups" : [ "craftingtransmutation", "items", "all" ]
+}

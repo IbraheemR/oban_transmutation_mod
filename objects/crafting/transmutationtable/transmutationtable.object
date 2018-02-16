@@ -9,7 +9,7 @@
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
     "config" : "/interface/windowconfig/transmutationtable.config",
-    "filter" : [ "craftingmutation" ]
+    "filter" : [ "craftingtransmutation" ]
   },
   "printable" : false,
   "price" : 1,
