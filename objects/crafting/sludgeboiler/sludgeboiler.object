@@ -4,7 +4,7 @@
     "category" : "crafting",
     "rarity" : "Uncommon",
     "objectType" : "container",
-    "description" : "Boils pretty much anything into a thick sludge.",
+    "description" : "Boils pretty much anything into a thick sludge (even other matter types!).",
     "shortdescription" : "^orange;Sludge Boiler^white;",
     "race" : "generic",
     "price" : 400,
@@ -40,7 +40,7 @@
     ],
   
     "slotCount" : 16,
-    "uiConfig" : "/interface/chests/chest<slots>.config",
+    "uiConfig" : "/interface/windowconfig/sludgeboiler.config",
     "frameCooldown" : 5,
     "autoCloseCooldown" : 3600,
 
